@@ -1,5 +1,2056 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",América Estéreo Guayaquil (360p)
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",América Estéreo Ibarra (720p)
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",América Estéreo Quito (1080p)
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",América Estéreo Tulcán (614p)
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Antena Uno RadioVideo (360p)
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Asomavisión (614p)
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Austral TV (1080p)
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Bacán Te Veo (360p)
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Sur (720p)
+https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Capricho TV (720p)
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ciracu TV (720p)
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Clic TV (360p)
+https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Colorados Visión TV (1080p)
+http://177.234.247.66:9975/ColoradosTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Curiquingue TV (720p)
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Duende Tv (720p)
+https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Durán TV (480p)
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecotel TV (720p)
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuador TV (1080p)
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuador TV (720p)
+https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",EcuaMundo Radio TV (720p)
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa (1080p)
+http://45.171.108.253:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa (1080p)
+http://45.224.97.181:9999/Ecuavisa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa (1080p)
+http://177.234.249.178:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa (1080p)
+http://179.60.51.134:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa Guayaquil (1080p)
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa Quito (1080p)
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Educa TV (720p)
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",El Sol Network TV (1080p)
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",FM Mundo (1080p)
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gamavision (1080p)
+http://45.224.97.181:9999/Gamavision/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gamavisión (720p)
+https://stream.esradioecuador.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gaviota TV
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",GM7 Digital
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Hechos Ecuador (1080p)
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",IeanJesus Ecuador (720p)
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Imperio TV Canal 6 (720p)
+https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Infinita TV (1080p)
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Inti TV (1080p)
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Kasterwey Media (1080p)
+https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",KCHTV (1080p)
+http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",La Nueva Radio TV 97.7 (1080p)
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",La Perla Radio TV (720p)
+https://eu1.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Latacunga TV (360p)
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Loreto TV (720p)
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Mágica Tv (1080p)
+https://magicatv.4pu.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Majestad Televisión (720p)
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",MakroDigital Television (1080p)
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",MakroDigital Television (720p)
+http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Manavisión (480p)
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Marca TV (1080p)
+http://200.7.219.221:8088/live/livetv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Mario Pinto TV (720p)
+https://eu1.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Mel Radio TV (360p)
+https://eu1.servers10.com:8081/8334/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Metropoli Medios TV (720p)
+https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Multicanal Catamayo (720p)
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Nortvisión (720p)
+https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ñuka TV (720p)
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ondas Quevedeñas TV (720p)
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Oromar TV (1080p)
+http://45.224.97.181:9999/Oromar/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Oromar TV (1080p)
+http://179.60.51.134:8888/OROMAR-TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Oromar TV (720p)
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Oromar TV+ (720p)
+https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Pantalla Clásica EC (512p)
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",PJ Digital Radio TV (720p)
+https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Plus TV (720p)
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Puruwa TV (1080p)
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Radio Alegria 98.5 FM (720p)
+https://video.compuwebecuador.com:3880/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Radio Bonita 106.7 (720p)
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Radio Cuenca Estéreo (720p)
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Radio Fantástica 98.9 FM (1080p)
+http://190.107.232.9:8082/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Radio Impacto 2 (288p)
+https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Radio Monumental TV (720p)
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Red TVE Ventanas (432p)
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTRTV (1080p)
+https://tv3ecuador.site/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTS (1080p)
+http://45.171.108.253:8888/RTS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTS (1080p)
+http://45.224.97.181:9999/RTS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTS (1080p)
+http://177.234.249.178:8888/RTS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTS (480p)
+https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTS (480p)
+https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTU (1080p)
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTU (1080p)
+http://45.224.97.181:9999/RTU/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",RTV Riobamba (720p)
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Señal Positiva TV (1080p)
+https://eu1.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Sono Onda TV (720p)
+https://live.obslivestream.com/sonoondatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TC Television (1080p)
+http://45.171.108.253:8888/TC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TC Television (1080p)
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TC Television (1080p)
+http://177.234.249.178:8888/TC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Teleamazonas (1080p)
+http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Teleamazonas (1080p)
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Teleamazonas (1080p)
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Teleamazonas (720p)
+http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Teleamazonas Quito (1080p)
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Telemar (720p)
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Telepremier Plus (1080p)
+http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Telerama (240p)
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Telesucesos (720p)
+https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TV Cisne (1080p)
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TV Color Canal 36 (720p)
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TV Legislativa (1080p)
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TV Universal Ecuador (720p)
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TVC (1080p)
+http://45.224.97.181:9999/TVC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TVC (720p)
+https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TVC (480i)
+https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",UEBI TV Online (720p)
+https://ventaxtv.com:3575/live/uebilive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",UNIANDES TV (720p)
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Unsion TV (1080p)
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",VitoTVO (1080p)
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Vos y TV (720p)
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Wuan+ (1080p)
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Zaracay TV (1080p)
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",TC Television
+http://177.234.218.66:8084/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[Nombre del Canal]" tvg-logo="" group-title="[Categor�a]",[Nombre del Canal]
-[URL del stream aqu�]
+#EXTINF:-1 tvg-logo="" group-title="España",3Cat Càmeres del temps (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",3Cat El búnquer (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",3Cat Exclusiu 1 (1080p)
+https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",3Cat Exclusiu 2 (1080p)
+https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",3Cat Exclusiu 3 (1080p)
+https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",3Cat Plats bruts (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",3CatInfo (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",8 La Marina TV (576p)
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",9 la Loma TV (1080p)
+https://9laloma.tv/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",12tv
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",12TV Alicante (720p)
+https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",28 kanala
+https://streaming.28kanala.eus/hls/z.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",101tv Axarquia (480p)
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",101tv Cádiz (1080p)
+https://streaming101tv.es:19360/cadiz/cadiz.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",101tv Malaga
+https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",101tv Sevilla
+https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",A Punt (720p)
+https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",A Punt
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Actualidad 360 (1080p)
+https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Alacantí TV (576p)
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Alcarria TV (576p)
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Alcarria TV (576p)
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Anime Vision (1080p)
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Anime Vision Classics (1080p)
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Antena 3 Internacional
+http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Antena 3 Internacional
+http://181.114.57.246:4000/play/akjWPSp33R6D9dv3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Aqui No Hay Quien Viva
+https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Arabí TV (1080p)
+https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Aragon TV Internacional (720p)
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Atrescine (1080p)
+http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",AXN (1080p)
+http://cdn.haititivi.com/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",AXN CEE
+http://46.149.191.217:9009/play/a02d
+#EXTINF:-1 tvg-logo="" group-title="España",AXN CEE Bulgary
+http://85.11.144.9:4222/AXN
+#EXTINF:-1 tvg-logo="" group-title="España",AXN CEE Czech Republic
+http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",AXN CEE Romania
+http://82.78.243.219:45739/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Bailén TV (720p)
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",BCN Gospel TV HD (720p)
+https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",BDNCOM (1080p)
+https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Biosfera TV (720p)
+https://tvdatta.com:3021/live/biosferatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Bon Dia TV (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Bon Dia TV (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Cadena Elite (720p)
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 1 Mar Menor-Torre Pacheco (1080p)
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 3 Biar (480p)
+https://avantstreaming.es/hls/canal3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 4 Catalunya (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 4 Mallorca (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 4 Mancha Centro (720p)
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 10 Empordà (360p)
+https://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 24 Horas Canarias (720p)
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 24 Horas Catalunya (720p)
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 25 TV (1080p)
+https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 45 (576p)
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 56 (576p)
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal 2000 La Solana (720p)
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Coín (1080p)
+https://canalcoin.garjim.es/hls/directo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Diocesano (576p)
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Doñana (720p)
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Extremadura (576p)
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Extremadura Satelite (1080p)
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Luz Television
+https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Luz Televisión (1080p)
+https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Málaga RTV (720p)
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Parlamento (360p)
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Reus TV (720p)
+https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal San Roque (1080p)
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Sierra de Cádiz (1080p)
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Sur Andalucia (1080p)
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Sur Andalucia (720p)
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Sur Andalucía 2 (720p)
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Taronja Comarques Centrals (1080p)
+https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Taronja Osona i Moianés (1080p)
+https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Terrassa (1080p)
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Canal Terres de L'Ebre (1080p)
+https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",CanalCosta (1080p)
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Cancionero TV (360p)
+http://89.140.229.5/hls1/cancionero.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Cetelmón TV (404p)
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Ciudades Del Ocio TV (720p)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Clan (720p)
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Clan Internacional Americas (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Clan TVE (1080p)
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",CMM TV HD (1080p)
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Condavisión (1080p)
+https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Congreso de los Diputados 1 (360p)
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Congreso de los Diputados 2 (360p)
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Congreso de los Diputados 3 (360p)
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Congreso de los Diputados 4 (360p)
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Congreso de los Diputados 5 (360p)
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Córdoba TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Corts Valencianes (480p)
+https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Costa Noroeste TV (1080p)
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Cristiana TV (576p)
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Cugat TV (1080p)
+https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Diez TV Las Villas (1080p)
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Diez TV Úbeda (1080p)
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Disney Junior (576p)
+https://bbb.exoadash.com/TVD1561/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="España",Distrito TV (1080p)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Durangaldeko Telebista (576p)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",El 9 TV (1080p)
+https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="España",El 33 (1080p)
+https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",El 33 Originals (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",El Toro TV (720p)
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Elche 7 TV (576p)
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Empordà TV (1080p)
+https://video3.lhdserver.es/empordatv2/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Esport3 (1080p)
+https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Esport3 Originals (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Este Canal TV (576p)
+http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Estepona Televisión (720p)
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",EsTuTele (720p)
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",ETB 1 (1080p)
+https://cdn1.etbon.eus/etb1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",ETB1 On (1080p)
+https://cdn1.etbon.eus/etb1on/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",ETB1 On (1080p)
+https://cdn1.etbon.eus/etb1on/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="España",ETB 2 (1080p)
+https://cdn1.etbon.eus/etb2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",ETB2 On (1080p)
+https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",ETB2 On (1080p)
+https://cdn1.etbon.eus/etb2on/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="España",ETB Events 1 (1080p)
+https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",ETV Terramar (1080p)
+https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Fibwi (1080p)
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Fitel TV (1080p)
+https://tv.mywifisocial.es/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Fuerteventura TV (1080p)
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Galicia TV Europa (720p)
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Goiena Eus (720p)
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Gol (720p)
+http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Gol Classics (1080p)
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Guada TV (720p)
+https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",HOLA! Play (1080p)
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Huelva TV (720p)
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",IberoAmerica TV (1080p)
+https://limited39.todostreaming.es/live/salome-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Imás TV (1080p)
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Interalmeria TV (1080p)
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Intercomarcal TV (576p)
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La 1 (720p)
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La 1 Canarias (720p)
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La 1 Canarias (720p)
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La 1 Catalunya (720p)
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La 1 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La 2 Canarias (720p)
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La 2 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La Urban TV (1080p)
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",LaLiga Hypermotion (1080p)
+http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",LaLiga TV
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Lancelot TV (404p)
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",LaOtra (720p)
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Lleida Televisió (1080p)
+https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="España",Logos TV (1080p)
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Logos TV Estudio (720p)
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Logos TV Kids (720p)
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Logos TV Salud (720p)
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Love The Planet (1080p)
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Love The Planet DE (1080p)
+https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Love The Planet ES (1080p)
+https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Love The Planet IT (1080p)
+https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",M95 Televisión Marbella (1080p)
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Maestrat TV (1080p)
+https://stream.maestrat.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Mar TV (1080p)
+http://iptv.services.everywan.net:8080/martv-web/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Mataró Televisió (1080p)
+https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="España",Mijas 3.40TV (720p)
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Mírame TV (360p)
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Molahits TV (720p)
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Music TV Granada (1080p)
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",NatureTime (1080p)
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Negocios TV (1080p)
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",NORTEvisión (1080p)
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Nova (720p)
+http://40.160.24.55/Nova/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Olot TV (1080p)
+https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="España",Onda 15 TV (224p)
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Onda Algeciras TV (576p)
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Onda Cádiz 24h (720p)
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Onda Madrid (720p)
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Onda Valencia (720p)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Parlamento de Andalucía (576p)
+http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Parlamento de Navarra (368p)
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Penedès Televisió (1080p)
+https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="España",Pequeradio (720p)
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Piera TV (720p)
+http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Pirineus TV (1080p)
+https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",POP World TV (720p)
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Popular TV Melilla (1080p)
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Popular TV Murcia (1080p)
+https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",PTV Córdoba (1080p)
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",PTV Granada (720p)
+https://streamer.zapitv.com/PTV-granada/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",PTV Linares (720p)
+https://streamer.zapitv.com/ptv-linarez/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",PTV Málaga (1080p)
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",PTV Sevilla (1080p)
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Punt 3 Vall Uixó (1080p)
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Radio 3 (720p)
+https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Ràdio Bocairent TV (1080p)
+http://185.81.77.4/BocairentTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Radio Carnaval TV (720p)
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Rakuten Viki (1080p)
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Real Madrid TV (404p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Real Madrid TV English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Ribera TV (576p)
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Rioja Televisión (360p)
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",RNE para todos (720p)
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",RTV El Vendrell (1080p)
+https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",RTV Manilva (1080p)
+https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",RTV Marbella (720p)
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",RTV Vida (1080p)
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",RTVC Cardedeu (1080p)
+https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Sevilla FC TV (360p)
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Sol Música (720p)
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Solidaria TV (720p)
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",SpektraTV (720p)
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",STZ Telebista (1080p)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",SX3 (1080p)
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Tarotéame (576p)
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TBN España (576p)
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Tele 7 (720p)
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Tele Elx (1080p)
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Tele Safor (720p)
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TeleBilbao (384p)
+https://tbilbo.dyndns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Teledeporte (720p)
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Teleganés (720p)
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Telemadrid Internacional (720p)
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Telemotril (720p)
+https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Teleonuba (1080p)
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TeleRibera (720p)
+https://video1.lhdserver.es/teleribera/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TeleVigo (1080p)
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Televisión Aranda (720p)
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Television Canaria (576p)
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Televisión Consciente (1080p)
+https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Tito TV (720p)
+https://cloud.tvomix.com/TITOTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Trece TV (576p)
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Trece TV (576p)
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TV3 (1080p)
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TV3CAT (1080p)
+https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TV3CAT Originals (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TV Almassora (1080p)
+https://tvalmassora.com/hls/tvalmassora.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TV Artequatre (576p)
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TV Berguedà (1080p)
+https://liveingesta318.cdnmedia.tv/berguedatvlive/smil:migracion.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="España",TV Costa Brava (1080p)
+https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Tv Famypanc HD (1080p)
+https://panel.host-live.com:19360/8042/8042.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TV Girona (1080p)
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TV L'Hospitalet (1080p)
+https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="España",TV Ripollès (1080p)
+https://liveingesta318.cdnmedia.tv/tvripolleslive/smil:live.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="España",TV Sabadell-Vallès (1080p)
+https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TV San Vicente (1080p)
+https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVCentro Andalucía (720p)
+https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Internacional America (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Internacional America HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Internacional Asia-Oceania (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Internacional Asia-Oceania HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Internacional Europe (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Internacional Europe HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Internacional Europe-Asia HD (1080p)
+https://siarlive.psce.pw/channel5
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Star (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVG2 (720p)
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVM Córdoba (1080p)
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVM Córdoba (1080p)
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVO Jesus (720p)
+https://cloud.tvomix.com/TVOJESUS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVOMIX (1080p)
+https://cloud.tvomix.com/TVOMIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",TVReus (720p)
+https://eu1.servers10.com:8081/8166/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Une Vinalopó (576p)
+https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Univers TV (720p)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Urola Telebista (416p)
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Vallès Visió (1080p)
+https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Ventdelnord TV (404p)
+http://ventdelnord.tv:8080/hls/directe.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Vision 6 TV (720p)
+https://streaming.proceso.info:8888/vision6-web/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Vivamóvil (720p)
+https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",VOTV (1080p)
+https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",XPTV1 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",XPTV2 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",XPTV US (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",Cap Terre (1080p)
+http://145.239.5.177/359a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",AXN CEE Romania (720p)
+https://aes.m3u8simplu.workers.dev/axn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España",KinoKazka (1080p)
+http://stream.mcquack.net/167/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="México",8NTV (1080p)
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",15TV (720p)
+https://cdn.fastocloud.com/leonel.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",15TV
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",A+ (1080p)
+http://45.189.62.33:8002/play/a0oc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Acustik TV
+https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",ADN 40 (1080p)
+http://45.189.62.33:8002/play/a0ob/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Alcance TV (720p)
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",AMX Noticias (720p)
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Antena TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Así Sucede Guanajuato (720p)
+https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Azteca 7 (1080p)
+http://45.189.62.33:8002/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Azteca 7 (720p)
+http://177.245.131.133:8080/AZTECA7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Azteca Uno (1080p)
+http://45.189.62.33:8002/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",B15 Fresnillo (1080p)
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",B15 Zacatecas (1080p)
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",BAMOS TV (1080p)
+https://video2.getstreamhosting.com:19360/8092/8092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",California Medios TV (720p)
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 5 (1080p)
+http://45.181.87.106/CANAL5HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 5 (1080p)
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 5 (720p)
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 5 TV Cozumel (1080p)
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 10 Cancún (720p)
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 10 Chiapas (720p)
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 10 Durango (1080p)
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 13 Bajío (720p)
+https://stream-207963.castr.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 13 Campeche (720p)
+https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee8847c303f3096501/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 13 Chiapas (720p)
+https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 13 Guadalajara (720p)
+https://stream-207963.castr.net/65313d270e749722b6474684/live_fa0ed380dfbe11eeabd66ba1b9ba93a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 13 Michoacán (720p)
+https://stream-207963.castr.net/65313d270e749722b6474684/live_0424eb20dfbf11ee821911a0b6ba5091/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 13 Oaxaca (720p)
+https://stream-207963.castr.net/65313d270e749722b6474684/live_0bd65ed0dfbf11ee848c53d8a686e201/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 13 Puebla (720p)
+https://stream-207963.castr.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 13 Tabasco (720p)
+https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 13 Tapachula (720p)
+https://stream-207963.castr.net/65313d270e749722b6474684/live_2b589fc0dfbf11ee9ce13534ca2a46c3/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 15 ILCE Summa Sabres (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 22 Nacional (720p)
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 26 Aguascalientes (1080p)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 28 (720p)
+https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 30 Cintalapa (720p)
+https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 33 Tijuana (720p)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 44 Chihuahua (720p)
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 44 Ciudad Juárez (720p)
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal 50.1 Juárez (XEJ-TDT) (614p)
+https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal del Congreso 45.1 (720p)
+http://177.245.131.133:8080/CONGRESO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal del Congreso 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Canal Parlamento del Congreso de Jalisco (720p)
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Capital 21 (1080p)
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",CB TV Michoacan
+https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",CineLatino (720p)
+http://45.162.193.35/CINELATINO_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Conecta TV (720p)
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",CreaLaTV (1080p)
+https://stream.crealatv.com/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",De Pelicula Latin America
+http://181.119.93.83:8000/play/a1jw/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Despierta TV (1080p)
+https://video2.lhdserver.es/despiertatv/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Distrito Comedia (1080p)
+http://177.234.249.135:8888/DistritoComedia/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Eclipse TV (720p)
+https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",El Chavo TV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",El Sonorense (1080p)
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Exa TV (576p)
+http://45.189.62.33:8002/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Exa TV
+http://190.61.90.17:40000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Expresa TV (720p)
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",GikTVMX (720p)
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Golden (720p)
+http://177.234.249.135:8888/Golden/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Golden Edge (1080p)
+http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Golden Edge (720p)
+http://177.234.249.135:8888/GoldenEdge/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Golden Plus (1080p)
+http://177.234.249.135:8888/GoldenPlus/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",ICRTV Colima (1080p)
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",IERTBCS Canal 8.2 La Paz (1080p)
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",IERTBCS Canal 8 La Paz (1080p)
+https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Imagen TV (1080p)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",IMRyT Morelos TV (720p)
+https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Ingenio TV (720p)
+https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",ITV Deportes (720p)
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Jalisco TV (720p)
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Justicia TV (720p)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",La Mejor TV (576p)
+http://45.189.62.33:8002/play/a0ls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Las Estrellas Latin America (1080p)
+http://177.234.249.135:8888/LasEstrellas/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Las Estrellas Latin America (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Lobo TV (720p)
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",María Visión Mexico (360p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Mexiquense TV (720p)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Monte Maria (1080p)
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",National Geographic (1080p)
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Nayarit Comunica (1080p)
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Notigram TV (XHFGL-TDT) (1080p)
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Nueve TV San Luís Potosí (720p)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Once México (1080p)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Once Ninas y Ninos (576p)
+http://45.189.62.33:8002/play/a0p7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Panico (576p)
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Popcorn Central (1080p)
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Presumiendo México (720p)
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",PSN (288p)
+https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",PSN Canal 45.2 (288p)
+https://srspsn2.live/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Radio y Televisión Crisol de la Alegría (1080p)
+https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Radiotele Morelia (352p)
+http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Raly TV (720p)
+https://cloudvideo.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",RCG TV (1080p)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",RCG TV 2 (360p)
+https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",RCG TV (Timeshifted -2 Hours) (432p)
+https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",RTG (720p)
+https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",RTQ Querétaro (1080p)
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Señal España (XHUNES-TDT) (720p)
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",SET Televisión Canal 26.1 (720p)
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",SET Televisión Canal 26.2 (720p)
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",SIPSE TV 8.1 (1080p)
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",SIPSE TVCUN 8.1 (1080p)
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Sistema Michoacano de TV (1080p)
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",SIZART Canal 24 (XHZHZ-TDT) (720p)
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Sony Channel (720p)
+http://177.245.131.133:8080/SONY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",SQCS Canal 4 (1080p)
+https://video0.rogohosting.com:19360/4982/4982.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Super9 TV (480p)
+https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Super Channel 12 (1080p)
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TELE 4 Ojocaliente (720p)
+https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Tele Saltillo
+https://servilive.com:3879/live/telesaltillolive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Tele UV
+https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Tele Yucatan (1080p)
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TeleFórmula (720p)
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Telehit Musica
+http://190.61.55.34:2401/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Telemax (XEWH-TDT) (1080p)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Teleplay Sureste (720p)
+https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Teleplay Sureste (360p)
+https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Teleritmo (720p)
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Tlaxcala Televisión (360p)
+https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Tlnovelas Latin America (1080p)
+http://177.234.249.135:8888/Telenovelas/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Tlnovelas Latin America (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Transmedia Televisión Morelia (614p)
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Transmedia Televisión Morelia (614p)
+https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TRC Televisión (720p)
+https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TUDN (1080p)
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-logo="" group-title="México",TUDN (1080p)
+https://streamvidex.qzz.io/videx/tudnmx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Turistik TV (720p)
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV BUAP (1080p)
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Cuatro 4.1 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Cuatro 4.1 (1080p)
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Cuatro 4.2 (1080p)
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Cuatro 4.3 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Cuatro 4.4 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Guanajuato (720p)
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Independencia (1080p)
+https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Libertad (720p)
+https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Lobo Durango (720p)
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Mar La Paz (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Mar Los Cabos (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Mar Puerto Vallarta (1080p)
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Migrante (720p)
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV UG (1080p)
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV UJAT (XHUJAT-TDT) (720p)
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TV UNAM (720p)
+http://177.245.131.133:8080/UNAM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TVMÁS (XHGV-TDT) (360p)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TVP Culiacán (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TVP Los Mochis (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TVP Mazatlán (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",TVP Obregón (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",UACJ-TV
+https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",UDG TV Canal 44 (720p)
+https://liveos.bytecazt.com/udgtv/streams/cfprivq23akg00a7ke2g_d306m7q9io6g00fsq3cg_.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Ultra TV Puebla (720p)
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",UMTV (1080p)
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Unison TV (1080p)
+https://stream.unison.mx/hls/unisontvatem.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Univision Latin America (1080p)
+http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Univision Latin America (1080p)
+http://177.234.249.135:8888/Univision/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Univision Latin America (1080p)
+http://177.234.249.178:8888/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",VB Media TV (1080p)
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Visión Televisión (720p)
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",XEIPN-TDT (720p)
+http://45.189.62.33:8002/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",XEIPN-TDT (720p)
+http://177.245.131.133:8080/ONCE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",XEIPN-TDT (720p)
+https://s5.mexside.net:1936/stream/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",ZAZ (1080p)
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Fox Sports Premium (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23054
+#EXTINF:-1 tvg-logo="" group-title="México",Az Cinema (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="México",Azteca Deportes Network (720p)
+http://38.194.226.190:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Alerta Bogota (720p)
+https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Amaga Television (720p)
+https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",ANC Television (720p)
+https://live.amelbatv.co:81/anctvlive/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Aupur Television (1080p)
+https://canal.aupurtv.co/live/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Avivamiento TV (1080p)
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Bendicion Channel (720p)
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Blu Radio (720p)
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Buenisima Radio TV
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",BUM Televisión (720p)
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",BUM Televisión (720p)
+https://video.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Cable Nobsa TV (720p)
+https://eu1.servers10.com:8081/8164/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Cable Sur TV
+https://tvlatina.live:1936/8025/8025/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Cablenoticias (720p)
+http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 1 (1080p)
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 1 (1080p)
+http://190.61.43.123:8081/CANAL1HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 1 (720p)
+http://177.234.249.135:8888/CANAL_UNO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 1 (576p)
+http://138.121.15.230:9002/CANAL-UNO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 2 Alpavisión Neiva (720p)
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 8 TV+ (720p)
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 8 TV+ (720p)
+https://video.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 9 Cosespu
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 10 SOL TV (1080p)
+http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 14 Codazzi (720p)
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal 55 Telemorisco TV (720p)
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Calima TV (720p)
+https://movil.ejeserver.com/live/calimatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Capital (1080p)
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Capital (1080p)
+http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal CHD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Congreso (1080p)
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Dos
+https://stream2.micanal2.tv/hls/canal2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Dos Yopal (720p)
+http://131.221.41.94/hls/canal2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Institucional (720p)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Institucional (576p)
+http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Más Televisión (720p)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Más Televisión (720p)
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Mundo Visión (720p)
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Mundo Visión (720p)
+https://video.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Nets (720p)
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Nets (720p)
+https://video.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Oración Con Son (1080p)
+https://canal.mediaserver.com.co/live/oracionconson.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal PyC (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal RCN (1080p)
+http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal RCN (1080p)
+http://138.186.23.7:8082/RCN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal RCN (1080p)
+http://177.234.249.178:8888/RCN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal RCN (1080p)
+http://181.78.17.228:8081/RCN-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal RCN (1080p)
+http://190.61.43.123:8081/RCNHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Telefamilia (360p)
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal TRO (1080p)
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal TRO Plus (1080p)
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal TV3 (720p)
+https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal Womtv (720p)
+https://live.amelbatv.co:81/womtvlive/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canica TV (240p)
+https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Caracol HD2 (1080p)
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Caracol TV (1080p)
+http://45.171.108.253:8888/CARACOL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Caracol TV (1080p)
+http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Caracol TV (1080p)
+http://177.234.249.178:8888/CARACOL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Caracol TV (1080p)
+http://181.78.17.228:8081/CARACOL-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Caracol TV (1080p)
+http://190.61.43.123:8081/CARACOLHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Cine35mm
+https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Citytv Bogota (1080p)
+http://138.121.15.230:9002/CITY-TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Citytv Bogota (720p)
+http://138.186.23.7:8082/CITY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CMB Television (1080p)
+https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CMB Television (1080p)
+https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CNC Bugavisión (720p)
+https://movil.ejeserver.com/live/cncbuga.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CNC Bugavisión (720p)
+https://video.ejeserver.com/live/cncbuga.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CNC Pereira (720p)
+https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CNC Santander de Quilichao (480p)
+https://movil.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CNC Santander de Quilichao (480p)
+https://video.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CNC Tulua (1080p)
+https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",CNC Valledupar (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Cosmovision (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Cristovision (720p)
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Cristovision
+http://186.148.196.82:8001/play/a0c3
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Eduvision (1080p)
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",El Mundo del Campo (720p)
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Emisora Comunitaria 104.1 FM
+https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Eureka (1080p)
+https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Frecuencia F TV (1080p)
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Heliconia Radio TV (720p)
+https://eu1.servers10.com:8081/8178/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Kalu TV (1080p)
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",La Hermandad Salsera (1080p)
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",La Kalle (720p)
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",La Morada Radio TV (720p)
+https://movil.ejeserver.com/live/lamoradatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Marsella TV
+https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Mas Norte TV
+https://live.arnoproducciones.com/hls/norte.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",MasMusica FM (720p)
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",MasMusica FM (720p)
+https://video.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",MaxTV
+https://inliveserver.com:1936/8078/8078/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",MCI Televisión (1080p)
+https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Momento24
+https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Nexo TV
+https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Noticiero 90 Minutos (1080p)
+https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",NSTV (1080p)
+https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",NSTV (720p)
+http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",NTN24 (576p)
+http://181.78.8.199:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Nuestra Tele Internacional (576p)
+http://181.78.8.199:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Oasis TV (720p)
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Ondambiental TV (360p)
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Panche Television
+https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Parranda Vallenata (720p)
+https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",RCN HD2 (1080p)
+http://181.78.14.26:4000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",RCN Novelas (1080p)
+http://190.61.43.123:8081/RCNNOVELAS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",RCN Novelas (576p)
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Red+ (1080p)
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Reyali (614p)
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Rumba TV (1080p)
+http://45.162.193.35/RUMBATV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Rumba TV
+http://186.148.196.100:8000/play/a02h
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Salsa Gorda Television (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Salsa Latina FM
+https://panel.streamingmedia.com.co:3557/stream/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Santel TV
+https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Senal Colombia (720p)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Soona TV
+https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Supermúsica TV (720p)
+https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Suram TV (1080p)
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Suram TV (720p)
+https://us.streaminghd.cl/suramtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",TDI Colombia (720p)
+https://live.amelbatv.co:81/tdicolombiatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Tele Amiga (480p)
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Tele Mocoa Canal 10 (720p)
+https://live.amelbatv.co:81/telemocoalive/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Tele San Jacinto
+https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Tele Vid (1080p)
+https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Teleantioquia (720p)
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Telebolívar (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Telecafe (1080p)
+https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Telecaribe (720p)
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Telecaribe Plus (720p)
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Teleislas (486p)
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Telemedellin (720p)
+https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Telepacífico (1080p)
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Telepasto (720p)
+https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Telesangil (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",TeveColombia (720p)
+https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Trece (720p)
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Tu Universo TV (720p)
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",TV3 La Plata (480p)
+https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",TV Golfo Uraba
+https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",TV Rivera
+https://movil.ejeserver.com/live/tvrivera.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",TV Rivera
+https://video.ejeserver.com/live/tvrivera.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",TVGracia
+https://vs20.live.opencaster.com/diego_57244803/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Ultra Casanare TV (1080p)
+https://eu1.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",UMC TV (720p)
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Vahos TV
+https://canal.vahostv.com/stream/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Vive TV Colombia (1080p)
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Win Sports (1080p)
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Win Sports (1080p)
+http://138.186.23.7:8082/WINSPORT/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Alcance TV (720p)
+https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Anzoátegui TV (360p)
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Audaz TV (432p)
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Barinas TV (720p)
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",BTA TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Canal 21 Táchira (360p)
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Canal C del Zulia (1080p)
+https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Canal I (1080p)
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Canal Once (480p)
+https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Catatumbo TV (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Chivacoa TV Internacional (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",DuacaVision
+https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",eSports Max TV
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Explosión Creativa (720p)
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Fortuna TV (1080p)
+https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",GlobalTV (480p)
+https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Globovision (720p)
+http://138.186.23.7:8082/GLOBOVISION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Globovision (576p)
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Grande TV (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Grande TV
+https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Guaro TV (720p)
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",interTV (1080p)
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Isla TV (480p)
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Italianissimo (360p)
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",IVC (576p)
+http://138.186.23.7:8082/IVC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",KandelaTV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",La Tele Tuya (576p)
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",LaPuraCrema Television
+https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Latina TV (1080p)
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",LGD Television (720p)
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Más Talk (1080p)
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",MAX Anime (1080p)
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Maxima TV
+https://maximatv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Meridiano TV (480p)
+https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Monagas Vision
+https://tv.monagasvision.com/hls/mistream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Monagas Visión (720p)
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Norteña TV (576p)
+https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Oasis Televisión (720p)
+http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Onza TV (720p)
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Oxigeno TV (360p)
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Plous TV (1080p)
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",PortuTV (480p)
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Proclamación TV
+https://video2.getstreamhosting.com:19360/8000/8000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",PromarTV (1080p)
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",PromarTV (576p)
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Reforma TV (1080p)
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Siembra TV
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Somos TV (720p)
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TAM TV
+https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Teleboconó (720p)
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telecentro (720p)
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telecentro (480p)
+https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telecolor (480p)
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur (720p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur (576p)
+https://edgectc.com/TELESUR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur (480p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur English (480p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur English HD (1080p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur HD (1080p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Telesur HD (720p)
+http://45.190.28.50/TELESUR_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Televen (720p)
+http://138.186.23.7:8082/TELEVEN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Televen (576p)
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Televisora de Oriente (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TNO Radio (720p)
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Torococo TV (720p)
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TRT (410p)
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TRV (480p)
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Tu TV (720p)
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TV Andes (720p)
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TV Familia (720p)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TV Familia
+https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TV Oasis Monay (720p)
+https://servilive.com:3562/live/vav4c8z38live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TVM para ti (1080p)
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",TVS (720p)
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",UN24 (720p)
+https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",UniTV (720p)
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Vale TV (480p)
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Vale TV (480p)
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Venevision (720p)
+http://177.234.249.178:8888/VENEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Venevision (576p)
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Venevision (480p)
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Venevisión Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Venezolana de Television (576p)
+http://138.186.23.7:8082/VENEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Venezolana de Television (576p)
+http://181.78.8.199:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",Vepaco TV (480p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",VPItv (1080p)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Venezuela",ShowVen TV (720p)
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Argentina",5tv
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",5TV Corrientes (480p)
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",A24 (720p)
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="" group-title="Argentina",ABTV Bariloche
+https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Aire de Santa Fe (1080p)
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Aire de Santa Fe
+https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Alterna TV (720p)
+https://tv.alterna.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",America TV (1080p)
+http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",America TV (720p)
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Argentinísima Satelital (540p)
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Atcco Canal 2
+https://ola1.com.ar/atccohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",ATV Argentina
+https://tv.streaming.com.bo/atvargentina/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Azahares Radio Multimedia (720p)
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Bayres TV (720p)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Beats Radio (480p)
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Bragado TV
+https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Bragado TV
+https://srv1053170.hstgr.cloud/hls/bragadotv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Bragado TV
+https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Bravo TV (1080p)
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Bravo TV (1080p)
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Cable Imagen Armstrong (540p)
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Cadena 103 (720p)
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Cadena103.TV
+https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 2 de Ushuaia (1080p)
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 2 Gualeguay
+https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 2 Mar del Plata
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 2 Misiones (1080p)
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 2 NexTV Rafaela (720p)
+https://edge.enhdtv.com/nexthd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 3 Formosa
+https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 3 La Pampa (1080p)
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 3 Las Heras (720p)
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 3 Pinamar
+http://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 3 Tacural
+http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 Posadas (576p)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 San Juan (576p)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 Teleaire
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 Villa Dolores
+https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 5 Del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 5 TV Chepes
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 6 Posadas (1080p)
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 6 Viento Recio
+https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 7 Neuquén (1080p)
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 7 Salta (1080p)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 7 Salta (720p)
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 7 Santiago del Estero (720p)
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Link
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Litoral (720p)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Resistencia (720p)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 10 Cordoba
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 10 Mar del Plata
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 11 de la Costa (720p)
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 12 Puerto Madryn (720p)
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 12 Web
+https://nd106.republicaservers.com:4433/c7827.mp4
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 13 Jujuy TV (720p)
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 13 San Luis
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 21 TV (1080p)
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 22 (720p)
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 26 (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 34 San Juan (720p)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 50 Morteros
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 79 La Costa (240p)
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 79 Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 79 Puan (240p)
+https://streamconex.com:19360/puan/puan.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 79 Santa Clara del Mar (240p)
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 79 Villa Maza
+https://streamconex.com:19360/villamaza/villamaza.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 99 Miramar
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal A (1080p)
+https://edgectc.com/CANAL_A/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal Luz
+https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal Provincial (360p)
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal Santa María (360p)
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal Universidad
+https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Caras TV (1080p)
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Caras TV
+http://190.61.90.17:40000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Catamarca TV (720p)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Celta TV (240p)
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Chaco TV (720p)
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Chacra TV
+https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Chamame TV
+https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Chilecito TV (480p)
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Cine.Ar (576p)
+http://200.91.32.158:8080/cinear/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Ciudad Magazine (1080p)
+http://190.7.19.197:232/play/a04l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Ciudad Magica (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",CM El Canal de la Musica (720p)
+http://200.91.32.158:8080/cm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Correa Radiovision
+https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Corrientes TV
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Cosmos Tv
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Cumbia Mix (720p)
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",DeporTV (1080p)
+https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America (1080p)
+http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America (1080p)
+http://45.185.163.75:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America Center (1080p)
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America Mexico (720p)
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America Mexico (576p)
+http://45.189.62.33:8002/play/a0al/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America Mexico (576p)
+http://177.245.131.133:8080/Disney/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America North (576p)
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America Panregional HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America Panregional HD (1080p)
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Channel Latin America Panregional HD (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disneychannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America (1080p)
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America (720p)
+http://177.245.131.133:8080/DISNEYJR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America (576p)
+http://45.189.62.33:8002/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America North HD (1080p)
+http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America North HD (1080p)
+http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America South (1080p)
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America South (576p)
+http://200.91.32.158:8080/disneyjr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America South
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America South HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America South HD (1080p)
+http://179.60.51.134:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Disney Jr. Latin America South HD (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Eco TV
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Gourmet (1080p)
+http://177.234.249.178:8888/EL-GOURMET/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Gourmet (720p)
+http://177.245.131.133:8080/GOURMET/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Gourmet South (720p)
+http://200.91.32.158:8080/gourmet/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Nueve (1080p)
+http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Siete (1080p)
+https://edgectc.com/CANAL7_MZA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Trece (1080p)
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",El Trece (480p)
+http://190.108.83.69:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Europa Europa (720p)
+http://200.91.32.158:8080/europa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Europa Europa
+http://181.119.93.83:8000/play/a1sr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Film & Arts (720p)
+http://200.91.32.158:8080/filmarts/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Folcloreando TV
+https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",IP Noticias (720p)
+https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Itel TV Canal 2
+https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Kpop Mix (720p)
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",La Nacion + (720p)
+http://200.91.32.158:8080/lnmas/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",La Nacion + (576p)
+http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",LAMIL35 TV
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Link TV
+https://linktv.b-cdn.net/linktv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Litus TV (720p)
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Magic Kids (486p)
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Más FM 95.9 (720p)
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Mercurio Noticias
+https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Metro (1080p)
+https://edgectc.com/METRO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Metro TV (720p)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Milennio TV (720p)
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Misiones Cuatro
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Multivision Federal
+https://panel.host-live.com:19360/8250/8250.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Multivision Federal
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",MusicTop (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Neox TV (720p)
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",NET TV (720p)
+http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",NET TV (720p)
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",NET TV (720p)
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",NET TV
+http://190.7.19.197:232/play/a095/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",NG Federal (720p)
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",NG Federal
+https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Panc TV (720p)
+https://panel.host-live.com:19360/20004/20004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Plim Plim (1080p)
+http://8.243.126.131:8000/play/a0od/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Power Max Radio TV (720p)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",PowerHD
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Quantica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Quiero Musica en mi Idioma (1080p)
+http://177.234.249.178:8888/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Radio Conexion Web TV (720p)
+https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Radio Maria TV (1080p)
+https://radiomaria.inovanex.stream/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Radio Realpolitik (720p)
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Radio Sublime Gracia TV (720p)
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Radio TV Neuquén (720p)
+https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Radio UP
+https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Radio Yguazú TV (480p)
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Radiocanal San Francisco (1080p)
+http://204.199.3.2/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",RTN (Neuquén) (720p)
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",San Luis +
+https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",San Pedro TV (1080p)
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Senal U
+https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Senillosa TV
+https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Sicardi TV (720p)
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Sion TV
+https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Solive TV
+https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Sony Channel (1080p)
+http://138.121.15.230:9002/SONY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",T5 Satelital
+https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TEC TV (576p)
+https://edgectc.com/TEC_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Posadas (720p)
+https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TeleCinco Trelew (240p)
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telecreativa
+https://panel.host-live.com:19360/8012/8012.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telefe (1080p)
+http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telefe Buenos Aires (1080p)
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telefe Internacional (576p)
+http://190.108.83.69:8000/play/a08l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telefe Rosario
+https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telenord (720p)
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telenord Corrientes (1080p)
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telpin TV Canal 2 HD (720p)
+https://mistserver.telpin.com.ar:8443/hls/telpinlive/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TIV Television (720p)
+https://videohd.live:19360/8008/8008.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TN (2160p)
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TN (1080p)
+http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TV Canal 72
+https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TV Maná Argentina (576p)
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TV Publica (1080p)
+http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TV Publica Marcos Paz
+https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TV Solidaria (576p)
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TyC Sports (1080p)
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TyC Sports (1080p)
+http://45.181.87.106/TYCSPORTSHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TyC Sports (1080p)
+http://playcom.trapemn.tv:1935/transcoderip/tycsports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Unife TV
+https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Uniteve (720p)
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Urban Mix (720p)
+https://cloud.tvomix.com/URBANMIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",VerTV (VTV) (720p)
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Villa Mantero TV
+https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",X Level Media (1080p)
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Xama TV
+https://srs.unsj.edu.ar/live/xama/xama.flv
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Xtrema Cine Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Xtrema Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Federal (720p)
+https://lbgo.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Telefe (480p)
+http://201.190.41.246:8822/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Federal (720p)
+https://183.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Argentina",Tele Posadas HD (720p)
+https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
